@@ -1,7 +1,7 @@
 # OP_Projet_3_Creez_et_utilisez_une_base_de_donnees_immobiliere_avec_SQL
 Projet III : Créez et utilisez une base de données immobilière avec SQL
 
-Scénario
+Scénario :
 
 Vous êtes data analyst chez Laplace Immo, un réseau national d’agences immobilières. Le directeur général est sensible depuis quelque temps à l’importance des données, et il pense que l’agence doit se démarquer de la concurrence en créant un modèle pour mieux prévoir le prix de vente des biens immobiliers. 
 ![image](https://github.com/KevinZirData/OP_Projet_3_Creez_et_utilisez_une_base_de_donnees_immobiliere_avec_SQL/assets/142809013/95429b13-69c1-4d05-b510-2152e12fa81e)
